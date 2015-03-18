@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2464d9",
+        "marker-size": "medium",
+        "marker-symbol": "farm",
+        "Name": "Penn Cove Mussel Farm",
+        "Town": "Coupeville",
+        "Type": "Aquaculture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70604133605957,
+          48.21924012996237
+        ]
+      }
+    }
+  ]
+}
